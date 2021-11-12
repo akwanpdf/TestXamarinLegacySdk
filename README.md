@@ -1,14 +1,14 @@
 # TestXamarinLegacySdk
-**What this project shows:** 
+**What this repo shows:** 
 - When building an Android NET6 app that uses a Microsoft.NET.Sdk binding lib in terminal, a NuGet package is created. 
 - Meanwhile, when building an app that uses a Xamarin.Legacy.Sdk binding lib in terminal, no NuGet package is created. 
 - Note that for both binding libs, `GeneratePackageOnBuild` is already set to true.
 
 **Projects:**
-1. **JavaBinding**: a binding library that uses Xamarin.Legacy.Sdk to target NET6 and MonoAndroid11.0
-2. **UseJavaBinding**: a NET6 app that uses JavaBinding. 
-3. **NET6JavaBinding**: a binding library that uses Microsoft.NET.Sdk to target NET6
-4. **UseNET6JavaBinding**: a NET6 app that uses NET6JavaBinding. 
+1. **JavaBinding**: a binding library that uses Xamarin.Legacy.Sdk to target NET6 and MonoAndroid11.0.
+2. **UseJavaBinding**: a NET6 app that uses JavaBinding.
+3. **NET6JavaBinding**: a binding library that uses Microsoft.NET.Sdk to target NET6.
+4. **UseNET6JavaBinding**: a NET6 app that uses NET6JavaBinding.
 
 For context, the projects were created using Microsoft.Android.Templates::31.0.101-preview.10.59.
 
