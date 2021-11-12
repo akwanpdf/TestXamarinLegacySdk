@@ -4,10 +4,10 @@
 Projects:
 1. JavaBinding: a binding library that uses Xamarin.Legacy.Sdk to target NET6 and MonoAndroid11.0
 2. NET6JavaBinding: a binding library that uses Microsoft.NET.Sdk to target NET6
-3. UseJavaBinding: a app that uses JavaBinding. 
-4. UseNET6JavaBinding: a app uses NET6JavaBinding. 
+3. UseJavaBinding: an app that uses JavaBinding. 
+4. UseNET6JavaBinding: an app that uses NET6JavaBinding. 
 
-For context, the apps were created using Microsoft.Android.Templates::31.0.101-preview.10.59.
+For context, the projects were created using Microsoft.Android.Templates::31.0.101-preview.10.59.
 
 ## Prerequisites
 - .NET SDK version 6.0.100
