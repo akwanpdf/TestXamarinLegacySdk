@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8E056D9D-4392-4849-82FE-54648467354D}|Default">
+  <MonoDevelop.Ide.ItemProperties.UseJavaBinding PreferredExecutionTarget="Android.Pixel_2_API_31" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UseJavaBinding.csproj">
+    <Files>
+      <File FileName="UseJavaBinding.csproj" Line="13" Column="69" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UseJavaBinding" expanded="True" selected="True">
+            <Node name="UseJavaBinding" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_2_API_31" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

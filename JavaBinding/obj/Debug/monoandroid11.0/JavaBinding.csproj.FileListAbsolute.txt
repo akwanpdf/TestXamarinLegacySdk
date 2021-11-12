@@ -1,0 +1,12 @@
+/Users/adriennekwan/TestXamarinLegacySdk/JavaBinding/bin/Debug/monoandroid11.0/JavaBinding.dll
+/Users/adriennekwan/TestXamarinLegacySdk/JavaBinding/bin/Debug/monoandroid11.0/JavaBinding.pdb
+/Users/adriennekwan/TestXamarinLegacySdk/JavaBinding/obj/Debug/monoandroid11.0/__AndroidLibraryProjects__.zip
+/Users/adriennekwan/TestXamarinLegacySdk/JavaBinding/obj/Debug/monoandroid11.0/MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+/Users/adriennekwan/TestXamarinLegacySdk/JavaBinding/obj/Debug/monoandroid11.0/JavaBinding.csproj.AssemblyReference.cache
+/Users/adriennekwan/TestXamarinLegacySdk/JavaBinding/obj/Debug/monoandroid11.0/stamp/_BuildLibraryImportsCache.stamp
+/Users/adriennekwan/TestXamarinLegacySdk/JavaBinding/obj/Debug/monoandroid11.0/JavaBinding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adriennekwan/TestXamarinLegacySdk/JavaBinding/obj/Debug/monoandroid11.0/JavaBinding.AssemblyInfoInputs.cache
+/Users/adriennekwan/TestXamarinLegacySdk/JavaBinding/obj/Debug/monoandroid11.0/JavaBinding.AssemblyInfo.cs
+/Users/adriennekwan/TestXamarinLegacySdk/JavaBinding/obj/Debug/monoandroid11.0/JavaBinding.csproj.CoreCompileInputs.cache
+/Users/adriennekwan/TestXamarinLegacySdk/JavaBinding/obj/Debug/monoandroid11.0/JavaBinding.dll
+/Users/adriennekwan/TestXamarinLegacySdk/JavaBinding/obj/Debug/monoandroid11.0/JavaBinding.pdb

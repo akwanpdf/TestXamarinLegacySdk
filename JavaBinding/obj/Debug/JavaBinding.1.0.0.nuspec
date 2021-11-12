@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>JavaBinding</id>
+    <version>1.0.0</version>
+    <authors>JavaBinding</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="MonoAndroid11.0" />
+      <group targetFramework="net6.0-android31.0" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="Java.Interop" targetFramework="MonoAndroid11.0" />
+      <frameworkAssembly assemblyName="Mono.Android" targetFramework="MonoAndroid11.0" />
+      <frameworkAssembly assemblyName="mscorlib" targetFramework="MonoAndroid11.0" />
+      <frameworkAssembly assemblyName="System.Core" targetFramework="MonoAndroid11.0" />
+      <frameworkAssembly assemblyName="System" targetFramework="MonoAndroid11.0" />
+      <frameworkAssembly assemblyName="System.Numerics" targetFramework="MonoAndroid11.0" />
+      <frameworkAssembly assemblyName="System.Numerics.Vectors" targetFramework="MonoAndroid11.0" />
+      <frameworkAssembly assemblyName="System.Xml" targetFramework="MonoAndroid11.0" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="/Users/adriennekwan/TestXamarinLegacySdk/JavaBinding/bin/Debug/monoandroid11.0/JavaBinding.dll" target="lib/monoandroid11.0/JavaBinding.dll" />
+    <file src="/Users/adriennekwan/TestXamarinLegacySdk/JavaBinding/bin/Debug/monoandroid11.0/JavaBinding.xml" target="lib/monoandroid11.0/JavaBinding.xml" />
+    <file src="/Users/adriennekwan/TestXamarinLegacySdk/JavaBinding/bin/Debug/net6.0-android/JavaBinding.dll" target="lib/net6.0-android31.0/JavaBinding.dll" />
+    <file src="/Users/adriennekwan/TestXamarinLegacySdk/JavaBinding/bin/Debug/net6.0-android/JavaBinding.xml" target="lib/net6.0-android31.0/JavaBinding.xml" />
+  </files>
+</package>

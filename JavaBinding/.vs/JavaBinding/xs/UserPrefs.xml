@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F2B7D39B-234A-4F21-9B86-9203D28F6FD1}|Default">
+  <MonoDevelop.Ide.ItemProperties.NET6JavaBinding PreferredExecutionTarget="Android.Galaxy_Nexus_API_30" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JavaBinding.csproj">
+    <Files>
+      <File FileName="JavaBinding.csproj" Line="9" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JavaBinding" expanded="True">
+            <Node name="UseNET6JavaBinding" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Galaxy_Nexus_API_30" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

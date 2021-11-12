@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/adriennekwan/TestXamarinLegacySdk/NET6JavaBinding/NET6JavaBinding.csproj": {}
+  },
+  "projects": {
+    "/Users/adriennekwan/TestXamarinLegacySdk/NET6JavaBinding/NET6JavaBinding.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/adriennekwan/TestXamarinLegacySdk/NET6JavaBinding/NET6JavaBinding.csproj",
+        "projectName": "NET6JavaBinding",
+        "projectPath": "/Users/adriennekwan/TestXamarinLegacySdk/NET6JavaBinding/NET6JavaBinding.csproj",
+        "packagesPath": "/Users/adriennekwan/.nuget/packages/",
+        "outputPath": "/Users/adriennekwan/TestXamarinLegacySdk/NET6JavaBinding/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/adriennekwan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-android"
+        ],
+        "sources": {
+          "/Users/adriennekwan/PDFTronCore/CWrap/CsharpWrap/PDFNetXamarin": {},
+          "/Users/adriennekwan/PDFTronCore/CWrap/CsharpWrap/PDFNetXamarin/lib/android": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-android31.0": {
+            "targetAlias": "net6.0-android",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-android31.0": {
+          "targetAlias": "net6.0-android",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.Android": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

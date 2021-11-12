@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NET6JavaBinding</id>
+    <version>1.0.0</version>
+    <authors>NET6JavaBinding</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-android31.0" />
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0-android31.0/textanalyzer.aar" buildAction="None" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="/Users/adriennekwan/TestXamarinLegacySdk/NET6JavaBinding/bin/Debug/net6.0-android/NET6JavaBinding.dll" target="lib/net6.0-android31.0/NET6JavaBinding.dll" />
+    <file src="/Users/adriennekwan/TestXamarinLegacySdk/NET6JavaBinding/bin/Debug/net6.0-android/NET6JavaBinding.xml" target="lib/net6.0-android31.0/NET6JavaBinding.xml" />
+    <file src="/Users/adriennekwan/TestXamarinLegacySdk/NET6JavaBinding/textanalyzer.aar" target="content/textanalyzer.aar" />
+    <file src="/Users/adriennekwan/TestXamarinLegacySdk/NET6JavaBinding/textanalyzer.aar" target="contentFiles/any/net6.0-android31.0/textanalyzer.aar" />
+  </files>
+</package>

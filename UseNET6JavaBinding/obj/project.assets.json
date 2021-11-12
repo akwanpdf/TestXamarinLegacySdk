@@ -1,0 +1,155 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-android31.0": {
+      "NET6JavaBinding/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/NET6JavaBinding.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NET6JavaBinding.dll": {}
+        }
+      }
+    },
+    "net6.0-android31.0/android-arm": {
+      "NET6JavaBinding/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/NET6JavaBinding.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NET6JavaBinding.dll": {}
+        }
+      }
+    },
+    "net6.0-android31.0/android-arm64": {
+      "NET6JavaBinding/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/NET6JavaBinding.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NET6JavaBinding.dll": {}
+        }
+      }
+    },
+    "net6.0-android31.0/android-x64": {
+      "NET6JavaBinding/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/NET6JavaBinding.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NET6JavaBinding.dll": {}
+        }
+      }
+    },
+    "net6.0-android31.0/android-x86": {
+      "NET6JavaBinding/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/NET6JavaBinding.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NET6JavaBinding.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NET6JavaBinding/1.0.0": {
+      "type": "project",
+      "path": "../NET6JavaBinding/NET6JavaBinding.csproj",
+      "msbuildProject": "../NET6JavaBinding/NET6JavaBinding.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-android31.0": [
+      "NET6JavaBinding >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/adriennekwan/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/adriennekwan/TestXamarinLegacySdk/UseNET6JavaBinding/UseNET6JavaBinding.csproj",
+      "projectName": "UseNET6JavaBinding",
+      "projectPath": "/Users/adriennekwan/TestXamarinLegacySdk/UseNET6JavaBinding/UseNET6JavaBinding.csproj",
+      "packagesPath": "/Users/adriennekwan/.nuget/packages/",
+      "outputPath": "/Users/adriennekwan/TestXamarinLegacySdk/UseNET6JavaBinding/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/adriennekwan/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-android"
+      ],
+      "sources": {
+        "/Users/adriennekwan/PDFTronCore/CWrap/CsharpWrap/PDFNetXamarin": {},
+        "/Users/adriennekwan/PDFTronCore/CWrap/CsharpWrap/PDFNetXamarin/lib/android": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-android31.0": {
+          "targetAlias": "net6.0-android",
+          "projectReferences": {
+            "/Users/adriennekwan/TestXamarinLegacySdk/NET6JavaBinding/NET6JavaBinding.csproj": {
+              "projectPath": "/Users/adriennekwan/TestXamarinLegacySdk/NET6JavaBinding/NET6JavaBinding.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-android31.0": {
+        "targetAlias": "net6.0-android",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.Android": {
+            "privateAssets": "all"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "android-arm": {
+        "#import": []
+      },
+      "android-arm64": {
+        "#import": []
+      },
+      "android-x64": {
+        "#import": []
+      },
+      "android-x86": {
+        "#import": []
+      }
+    }
+  }
+}

@@ -1,0 +1,3 @@
+UseNET6JavaBinding.MainActivity, UseNET6JavaBinding;crc64c6a98b114a80edd6.MainActivity
+UseNET6JavaBinding.MainActivity;crc64c6a98b114a80edd6.MainActivity
+usenet6javabinding.MainActivity;crc64c6a98b114a80edd6.MainActivity

@@ -1,0 +1,3 @@
+UseJavaBinding.MainActivity, UseJavaBinding;crc646785d902f54d1026.MainActivity
+UseJavaBinding.MainActivity;crc646785d902f54d1026.MainActivity
+usejavabinding.MainActivity;crc646785d902f54d1026.MainActivity
